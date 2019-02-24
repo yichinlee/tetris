@@ -1,11 +1,6 @@
 from tkinter import *
 import random
 import copy
-##AndrewID:yichinle
-##Section:Q
-####################################
-# customize these functions
-####################################
 
 def init(data):
     gameData = gameDimensions()
